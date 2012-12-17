@@ -1,0 +1,51 @@
+[
+	"vibe" : {
+		"name"		: "56711495",
+		"lat"		: 400000000,
+		"lng"		: -790000000,
+		"srcStatus"	: dormant,
+		"drive"		: 50,
+		"numSweeps"	: 8,
+		"lenSweeps"	: 8,
+		"lenPause"	: 6
+		},
+		
+	"shot" : {
+		"name"		: "56711496",
+		"lat"		: 400000010,
+		"lng"		: -790000000,
+		"srcStatus"	: pulled,
+		"chargeWeight"	: 5.0,
+		"depth"		: 100.00
+		},
+	
+	"shot" : {
+		"name"		: "56711497",
+		"lat"		: 400000020,
+		"lng"		: -790000000,
+		"srcStatus"	: activated,
+		"chargeWeight"	: 2.5,
+		"depth"		: 150
+		},
+		
+	"recv" : {
+		"name"		: "14975671",
+		"lat"		: 400000000,
+		"lng"		: -790000010,
+		"recStatus"	: unavailable,
+		},
+		
+	"recv" : {
+		"name"		: "14975670",
+		"lat"		: 400000000,
+		"lng"		: -790000020,
+		"recStatus"	: laidout,
+		},
+		
+	"recv" : {
+		"name"		: "14975672",
+		"lat"		: 400000000,
+		"lng"		: -790000030,
+		"recStatus"	: cleared,
+		},
+]
